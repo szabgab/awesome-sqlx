@@ -2,6 +2,8 @@
 
 [SQLx](https://crates.io/crates/sqlx) is an async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
 
+Most recent version (at the time we checked) was 0.8.6
+
 See [SQLx in GitHub](https://github.com/launchbadge/sqlx)
 
 ## 📖 Tutorials, articles
@@ -11,6 +13,16 @@ See [SQLx in GitHub](https://github.com/launchbadge/sqlx)
     * [A Beginner's Guide to SQLX: Getting Started](https://sqlx.dev/article/A_Beginners_Guide_to_SQLX_Getting_Started.html)
 * [Introduction to SQLx](https://rustfor.net/docs/module8/sqlx/) (sqlx 0.8)
 * 2026.02.20 [SQLx Tutorial: Type-Safe SQL in Rust Without an ORM](https://reintech.io/blog/sqlx-tutorial-type-safe-sql-rust-without-orm)
+
+## 📦 Crates
+
+* [sqlx](https://crates.io/crates/sqlx)
+* [sqlx-cli](https://crates.io/crates/sqlx-cli)
+
+## 📦 Projects
+
+* [realworld-axum-sqlx](https://github.com/launchbadge/realworld-axum-sqlx) Demo application (sqlx 0.5)
+* [Axium](https://github.com/Riktastic/Axium) An example API built with Rust, Axum, SQLx, and PostgreSQL. (sqlx 0.8.4)
 
 ## 📺 Videos
 
