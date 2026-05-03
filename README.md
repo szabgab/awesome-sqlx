@@ -18,6 +18,10 @@ See [SQLx in GitHub](https://github.com/launchbadge/sqlx)
 
 * [sqlx](https://crates.io/crates/sqlx)
 * [sqlx-cli](https://crates.io/crates/sqlx-cli)
+* [sea-orm](https://crates.io/crates/sea-orm) Object-Relational Mappings (ORM)
+* [sea-query](https://crates.io/crates/sea-query)
+* [r2d2](https://crates.io/crates/r2d2)  Connection Pools
+* [postgres](https://crates.io/crates/postgres) Database Driver
 
 ## 📦 Projects
 
