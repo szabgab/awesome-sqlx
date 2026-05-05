@@ -27,6 +27,7 @@ See [SQLx in GitHub](https://github.com/launchbadge/sqlx)
 
 * [realworld-axum-sqlx](https://github.com/launchbadge/realworld-axum-sqlx) Demo application (sqlx 0.5)
 * [Axium](https://github.com/Riktastic/Axium) An example API built with Rust, Axum, SQLx, and PostgreSQL. (sqlx 0.8.4)
+* [GitHub SQLx in Rust](https://github.com/topics/sqlx?l=rust)
 
 ## 📺 Videos
 
