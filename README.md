@@ -6,6 +6,8 @@ Most recent version (at the time we checked) was 0.8.6
 
 See [SQLx in GitHub](https://github.com/launchbadge/sqlx)
 
+* 📺 2025.05.12 [Introduction to SQLx](https://www.meetup.com/code-mavens/events/314642118/) 📺
+
 ## 📖 Tutorials, articles
 
 * [Documentation](https://docs.rs/sqlx/)
