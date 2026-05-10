@@ -29,6 +29,7 @@ See [SQLx in GitHub](https://github.com/launchbadge/sqlx)
 
 * [realworld-axum-sqlx](https://github.com/launchbadge/realworld-axum-sqlx) Demo application (sqlx 0.5)
 * [Axium](https://github.com/Riktastic/Axium) An example API built with Rust, Axum, SQLx, and PostgreSQL. (sqlx 0.8.4)
+* [sqlx-data](https://github.com/josercarmo/sqlx-data) Zero-boilerplate Repository Pattern for SQLx — type-safe query repositories via proc macros, with pagination, streaming, batch operations and more
 * [GitHub SQLx in Rust](https://github.com/topics/sqlx?l=rust)
 * [Search on GitHub](https://github.com/search?q=sqlx+language%3ARust&type=repositories&s=stars&o=desc)
 
