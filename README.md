@@ -6,7 +6,11 @@ Most recent version (at the time we checked) was 0.8.6
 
 See [SQLx in GitHub](https://github.com/launchbadge/sqlx)
 
-* 📺 2026.05.12 [Introduction to SQLx](https://www.meetup.com/code-mavens/events/314642118/) 📺
+The [SQLx Ecosystem](https://github.com/launchbadge/sqlx/wiki/Ecosystem)
+
+## 📺 Upcoming events
+
+* 2026.05.12 [Introduction to SQLx](https://www.meetup.com/code-mavens/events/314642118/) live online.
 
 ## 📖 Tutorials, articles
 
@@ -30,8 +34,11 @@ See [SQLx in GitHub](https://github.com/launchbadge/sqlx)
 * [realworld-axum-sqlx](https://github.com/launchbadge/realworld-axum-sqlx) Demo application (sqlx 0.5)
 * [Axium](https://github.com/Riktastic/Axium) An example API built with Rust, Axum, SQLx, and PostgreSQL. (sqlx 0.8.4)
 * [sqlx-data](https://github.com/josercarmo/sqlx-data) Zero-boilerplate Repository Pattern for SQLx — type-safe query repositories via proc macros, with pagination, streaming, batch operations and more
-* [GitHub SQLx in Rust](https://github.com/topics/sqlx?l=rust)
-* [Search on GitHub](https://github.com/search?q=sqlx+language%3ARust&type=repositories&s=stars&o=desc)
+
+## 📋 Lists
+
+* [GitHub topic: SQLx language: Rust](https://github.com/topics/sqlx?l=rust)
+* [Search sqlx and language:Rust on GitHub](https://github.com/search?q=sqlx+language%3ARust&type=repositories&s=stars&o=desc)
 
 ## 📺 Videos
 
